@@ -4,7 +4,6 @@
 
 
 ```bash
-# using npm
 python -m venv .venv
 source .venv/bin/activate
 
@@ -14,7 +13,6 @@ source .venv/bin/activate
 ## Step 2: To Install Dependencies
 
 ```bash
-# using npm
 pip install -r requirements.txt
 
 ```
@@ -23,7 +21,6 @@ pip install -r requirements.txt
 ## Step 3: To Run application
 
 ```bash
-# using npm
 fastapi dev main.py
 
 ```
